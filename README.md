@@ -79,7 +79,10 @@ Otomatik `dbContext.Database.Migrate()` ile migration uygulanır.
 
 ## 5 - Testler
 
-Visual studioda Tests>RunAllTest ile mevcut testler çalıştırılabilir.
+Temel fonksiyonlar için unit testler hazırlanmıştır.
+
+Visual studio'da Tests>RunAllTest ile mevcut testler çalıştırılabilir.
+
 
 
 
